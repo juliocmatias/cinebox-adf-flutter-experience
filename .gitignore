@@ -40,3 +40,5 @@ web/.dart_tool/
 *.swo
 *.tmp
 *.bak
+
+*.g.dart
