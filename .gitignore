@@ -42,3 +42,4 @@ web/.dart_tool/
 *.bak
 
 *.g.dart
+.flutter-plugins-dependencies
